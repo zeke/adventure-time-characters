@@ -2,6 +2,7 @@
   "dependencies": {
     "alphabet": "^1.0.0",
     "cheerio": "^1.0.0-rc.12",
+    "download": "^8.0.0",
     "got": "^12.3.1",
     "sleep-promise": "^9.1.0"
   },
